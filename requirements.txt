@@ -1,7 +1,6 @@
 streamlit
-pandas 
-matplotlib.pyplot
+pandas
+matplotlib
 seaborn
-sklearn.cluster
+scikit-learn
 geopandas
-warnings
