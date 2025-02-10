@@ -1,0 +1,7 @@
+streamlit
+pandas 
+matplotlib.pyplot
+seaborn
+sklearn.cluster
+geopandas
+warnings
