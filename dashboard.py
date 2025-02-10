@@ -527,7 +527,7 @@ elif sidebar_selection == "Analisis Durasi Film":
 
 # 9. Fungsi untuk analisis geoanalisis
 def analisis_geoanalisis(df):
-    shapefile_path = r'https://github.com/Zoane27/netflix_analytics/blob/main/ne_110m_admin_0_countries/ne_110m_admin_0_countries.README.html'
+    shapefile_path = r'ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp'
     world = gpd.read_file(shapefile_path)
     kolom_negara = 'NAME'
 
